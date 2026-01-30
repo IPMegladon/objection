@@ -1,1 +1,5 @@
 Contains subcommands helpful when searching for classes and methods.
+
+Flags:
+   --json            Output results as JSON
+   --only-classes    Only show classes in search results, not methods
