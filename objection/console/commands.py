@@ -512,7 +512,7 @@ COMMANDS = {
         },
     },
     # ios commands
-        'ios': {
+    'ios': {
         'meta': 'Commands specific to iOS',
         'commands': {
             'info': {
